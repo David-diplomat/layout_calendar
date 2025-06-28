@@ -51,10 +51,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-
-    font-style: $day-font-size;
+    font-size: $day-font-size;
     font-family: $day-font-family;
-
     box-sizing: border-box;
     border: $border-size $border-type $border-color;
     color: $text-color;
